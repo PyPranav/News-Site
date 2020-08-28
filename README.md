@@ -7,3 +7,10 @@ https://newsapi.org/
   
 ## Hosted Site:-
 https://pypranav.pythonanywhere.com/news/
+  
+## Instalation  
+Use git clone to install it on local machine.
+```bash
+git clone https://github.com/PyPranav/News-Site
+pip install -r requirements.txt
+```
