@@ -32282,3 +32282,12 @@ article a:hover {
 .post{
     cursor: pointer;
 }
+
+.hov:hover{
+    background: #d4d4d4;
+    transition: 1s;
+}
+.hov:focus{
+    background: #d4d4d4;
+    /* transition: 1s; */
+}
