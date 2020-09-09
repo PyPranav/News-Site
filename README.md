@@ -6,7 +6,7 @@ https://newsapi.org/
 #### Note API-Key is required
 (API key to be place inside main/views.py)
   
-## Hosted Site:-
+## Hosted Site
 https://pypranav.pythonanywhere.com/news/
   
 ## Installation  
@@ -15,6 +15,9 @@ Use git clone to install it on local machine.
 git clone https://github.com/PyPranav/News-Site
 pip install -r requirements.txt
 ```
+  
+## CSS (Neumorphism UI)
+https://demo.themesberg.com/neumorphism-ui/
   
 ## Images
   
