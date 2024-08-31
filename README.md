@@ -8,6 +8,10 @@
 - **User-Friendly Interface**: Designed with Neumorphism UI to provide a modern and clean look, enhancing readability and navigation.
 - **Customizable Backend**: Easily modify the sources and categories of news through the Django admin panel.
 
+## Screenshots
+
+![Screenshot 1](https://cdn.discordapp.com/attachments/1276824488398422110/1279355840616468570/news.png?ex=66d42479&is=66d2d2f9&hm=2bfe8c7a85c469c009a8ff16096cd3c95dc5ce693c8d8bd1c4e6f0d0702229b2&)
+
 ## API Used
 
 This project utilizes the <a href="https://newsapi.org/" target="_blank">NewsAPI</a> to retrieve news data. 
