@@ -20,7 +20,7 @@ This project utilizes the <a href="https://newsapi.org/" target="_blank">NewsAPI
 
 ## Hosted Site
 
-Check out the live version of the News-Site <a href="https://pypranav.pythonanywhere.com/news/" target="_blank">here</a>.
+Check out the live version of the News-Site <a href="https://newsflaskpyp.pythonanywhere.com" target="_blank">here</a>.
 
 ## Installation
 
